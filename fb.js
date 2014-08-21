@@ -46,7 +46,7 @@ var feelings = [
     'like a mannequin of solitude',
     "like I'm waiting for anything. Anything",
     'whatever. Eating off my chest',
-    'talking to a Taylor Swift poster',
+    'whatever. talking to a Taylor Swift poster',
     "alone. Thinking about what I'll lie about at work today",
     "should I buy lemonade powder for my brita water just to taste anything at all"
     "determined. Erasing a crossword to do it faster, better",
@@ -55,6 +55,22 @@ var feelings = [
     'alone. Bringing leftovers to the airport',
     'prepared for the mundane',
     'not quite up to it, honestly',
+    'tempest-tossed',
+    'too meaningless for destiny to have something in store for me',
+    'alert to pain',
+    'alert to numbness',
+    "like garbage but no more than usual"
+    'cute. Like a wart',
+    'static',
+    'like nothing has changed in all of human history',
+    'paused',
+    'chill. Like a corpse',
+    'different than everyone else',
+    'different than I ever was. Worse, for sure',
+    'frightened of silence',
+    'determined to win today. Win one moment of peace',
+    'always the bridesmaid, never free from work to attend the wedding',
+    "like I'm always complaining about not having time off but what would I even do if I had it?",
     
     
 ];
