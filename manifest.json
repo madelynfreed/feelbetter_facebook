@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+
+    "name": "Feelbetter Facebook",
+    "description": "Feel better about yourself by feeling worse about your friends.",
+    "version": "1.2",
+
+    "content_scripts": [
+        {
+            "matches": ["https://www.facebook.com/*"],
+            "js": ["zepto.min.js", "lodash.min.js", "fb.js"],
+            "run_at": "document_idle"
+        }
+    ],
+    "permissions": [
+      "https://www.facebook.com/*"
+    ]
+}
