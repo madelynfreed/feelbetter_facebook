@@ -105,6 +105,7 @@ function tagFeelings() {
 function feelBetter() {
     $('div.fcg span.fcg a').not('.SKIPME').each(tagFeelings);
     $('span.fwb a.profileLink').not('.SKIPME').each(tagFeelings);
+    $('span.fcb span.fwb a').not('.SKIPME').each(tagFeelings);
     setTimeout(feelBetter, 500);
 }
 
