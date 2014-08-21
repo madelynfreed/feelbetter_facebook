@@ -71,7 +71,10 @@ var feelings = [
     'determined to win today. Win one moment of peace',
     'always the bridesmaid, never free from work to attend the wedding',
     "like I'm always complaining about not having time off but what would I even do if I had it?",
-    
+    'sobered',
+    'like maybe I understood for a moment',
+    'unchanged',
+    "like I've never really learned my lesson",
     
 ];
 
