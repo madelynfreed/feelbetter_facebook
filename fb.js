@@ -21,7 +21,41 @@ var feelings = [
     'like a goddamn fraud',
     'paralyzed with too many bad options',
     'frightened of death',
-    ''
+    'terrified, honestly',
+    'a chasm in my chest',
+    "like I'll never live up to my potential, if I had any in the first place",
+    'worthless',
+    'like I must go on, despite everything',
+    'hopeful, because nothing matters anyway so',
+    'deep pointlessness',
+    'an empty space where there should be love',
+    'accepting of the apocalypse',
+    "what if I hadn't wasted all that time?",
+    "WHY DON'T PEOPLE TALK ABOUT THIS",
+    'distracted by minutae, luckily',
+    "paralyzed with too many good options. Shouldn't that make me feel better?"
+    "nothing. Shouldn't I feel something?"
+    'weird. Wait no just scared'
+    'alone, in that bad way',
+    'crying. But not for help',
+    'accomplished (but for what? Why? Why anything?)',
+    'an empty space where there should be fear',
+    'the last word in lonesome is me',
+    'like a shell of who I used to be',
+    'like a shell of who I never was',
+    'like a mannequin of solitude',
+    "like I'm waiting for anything. Anything",
+    'whatever. Eating off my chest',
+    'talking to a Taylor Swift poster',
+    "alone. Thinking about what I'll lie about at work today",
+    "should I buy lemonade powder for my brita water just to taste anything at all"
+    "determined. Erasing a crossword to do it faster, better",
+    "scared. Tried sleeping under my bed last night, didn't help.",
+    "all my clothes are beige",
+    'alone. Bringing leftovers to the airport',
+    'prepared for the mundane',
+    'not quite up to it, honestly',
+    
     
 ];
 
