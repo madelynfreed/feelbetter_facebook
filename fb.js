@@ -75,6 +75,14 @@ var feelings = [
     'like maybe I understood for a moment',
     'unchanged',
     "like I've never really learned my lesson",
+    'just a little scared',
+    'just a little alone. But I think I can get over it',
+    'nervous but not sure about what',
+    'guilty',
+    'deserving of apathy',
+    'unrecognizable',
+    'vulnerable',
+    "like I'm trying to connect in all the wrong ways"
     
 ];
 
