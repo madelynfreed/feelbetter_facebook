@@ -13,6 +13,16 @@ var feelings = [
     'alone but playing it off',
     'happy (read: scared and alone)',
     'SICK AND TIRED OF BEING SICK AND TIRED'
+    'mostly alone but a little scared'
+    "like this brave face won't last much longer",
+    'disappointed in myself',
+    'like I should be happy, given the circumstances',
+    'fraudulent',
+    'like a goddamn fraud',
+    'paralyzed with too many bad options',
+    'frightened of death',
+    ''
+    
 ];
 
 function randomFeeling() {
